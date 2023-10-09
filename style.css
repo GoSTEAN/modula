@@ -162,3 +162,42 @@ p {
     margin-left: -7vh;
     color: #000;
 }
+
+@media (max-width: 600px) {
+  .show-modal{
+    font-size: 1.2rem;
+    padding: 1.7rem 4rem;
+    margin: 5rem 0.6rem;
+  }
+  .show-modal2{
+    font-size: 1.2rem;
+    padding: 1.7rem 3rem;
+    margin: 5rem 1rem;
+  }
+  .show-modal3{
+    font-size: 1.2rem;
+    padding: 1.7rem 3rem;
+    margin: 5rem 1rem;
+  }
+  p {
+  font-size: 1.3rem;
+  }
+  .modal {
+    width: 100%;
+  }
+  .modal1 {
+    width: 100%;
+  }
+  .modal2 {
+    width: 100%;
+  }
+  h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  }
+  .overlay {
+  
+  z-index: 8;
+}
+
+}
